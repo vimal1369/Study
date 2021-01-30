@@ -1,0 +1,1 @@
+// no garbage collection for closure variable and hence can cause stack of browser to full or memory lekage resulting in hanging or poor performance of programme
